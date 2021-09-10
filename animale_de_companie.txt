@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('animals.jpg');
+}
+</style>
+<style>
+.pets {
+  margin-left:16.8em;
+  width: 60%;
+  border: 5px solid white;
+  padding: 10px;
+background-color: rgba(132, 171, 168, 0.6);
+}
+</style>
+</head>
+<body>
+<h style="margin-left:1.2em; font-family:goudy stout; font-size:270%; color:#84aba8;"><b>＊*•̩̩͙✩•̩̩͙*˚Animale de Companie˚*•̩̩͙✩•̩̩͙*˚＊</b></h><br>
+<br>
+<p style="font-family:garamond; font-size:150%; color:#84aba8; text-align:center"><b>Totto</b></p><br>
+<br>
+<img src="png5.png" width="291" height="223" style="margin-left:4em"><img src="totto1.jpg" width="250" height="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="totto2.jpg" width="250" height="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="totto3.jpg" width="250" height="250"><img src="png5.png" width="291" height="223"><br>
+<br>
+<p style="font-family:garamond; font-size:150%; color:#609e55; text-align:center"><b>Lola</b></p><br>
+<br>
+<img src="png01.png" width="291" height="223" style="margin-left:4em"><img src="lola1.jpg" width="250" height="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="lola22.jpg" width="250" height="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="lola3.jpg" width="250" height="250"><img src="png01.png" width="291" height="223"><br>
+<br>
+<p style="font-family:garamond; font-size:150%; color:#b897bf; text-align:center"><b>Benson & Tina</b></p><br>
+<br>
+<img src="flut.png" width="280" height="250" style="margin-left:4em"><img src="dog1.jpg" width="250" height="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="dog2.jpg" width="250" height="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="dog3.jpg" width="250" height="250"><img src="flut.png" width="280" height="250"><br>
+<br>
+<br>
+<br>
+
+</body>
+</html>

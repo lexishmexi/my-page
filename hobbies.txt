@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('hobbies2.jpg');
+}
+</style>
+<style>
+.hobby {
+  margin: auto;
+  width: 70%;
+  border: 5px solid white;
+  padding: 10px;
+background-color: rgba(184, 178, 154, 0.6);
+}
+</style>
+<style>
+#hp  {
+float: left;    
+ margin: 0 15px 0 0;
+}
+</style>
+</head>
+
+<body>
+<h style="margin-left:1.5em; font-family:goudy stout; font-size:470%; color:#a6925b;"><b>‧͙⁺˚*･༓☾H O B B Y☽༓･*˚⁺‧͙</b></h>
+<div class="hobby"><img src="cop22.jpg" width="300" height="310" id="hp"><p style="font-family:garamond; color:#9d7b45; font-size:150%"><b><u>E M B R O I D E R Y</u></b></p>
+<p style="font-family:garamond; color:#746c56; font-size:150%">Broderia a apărut în viața mea acum puțin timp, dar a reușit să mă captiveze. E destul de ușor să iubești acest hobby. Brodezi? Poftim? Ca o bunică la lumina lămpii? Întrebări care adesea le-am primit. Broderia nu mai este un hobby care poate captiva femeile de altă dată, ci este un hobby ce te relaxează și te învață răbdare. Lucrul manual e foarte apreciat în zilele noastre. Astfel, de fiecare dată când ofer în dar un tablou sau un anumit articol brodat primesc un feedback pozitiv. De fapt, dorința mea de a broda nu a apărut din senin. A apărut după ce am descoperit un minunat canal de YouTube.<a href="https://www.youtube.com/channel/UCyPTiRr73OnU25vHnN1UDnA" style="color:#9d7b45"><b> <u>Slowly-Embroidery</u></b></a>- Canalul care m-a motivat și inspirat să i-au acul și ața în mână!<br>Găsiți atașat mai jos, unul din clipurile meșteriței, care postează pe canalul <b>Slowly-Embroidery</b>.</p><br>
+<img src="lolml.png" width="150" height="400">&nbsp;&nbsp;<iframe width="700"  height="400" src="https://www.youtube.com/embed/HSL80xfOyoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><img src="lolml.png" width="150" height="400"><br></div><br>
+<br>
+<div class="hobby"><img src="art1.jpg" width="300" height="310" id="hp"><p style="font-family:garamond; color:#9d7b45; font-size:150%"><b><u>A R T S</u></b></p>
+<p style="font-family:garamond; color:#746c56; font-size:150%">Arta, o parte integrală din viața mea. Încă din adânca copilărie prezentam interes față de acest hobby. Arta este, în esență, cea mai profundă expresie a creativității umane. Pe cât de dificil de definit, pe atât de dificil de evaluat, având în vedere faptul că fiecare artist își alege singur regulile și parametrii de lucru, se poate spune, totuși, că arta este rezultatul alegerii unui mediu, a unui set de reguli pentru folosirea acestui mediu și a unui set de valori ce determină ce anume merită a fi exprimat prin acel mediu pentru a induce un sentiment, o idee, o senzație sau o trăire în modul cel mai eficient posibil pentru acel mediu. Prin modul său de manifestare, arta poate fi considerată și ca o formă de cunoaștere. Primul val de inspirație l-am primit în urma descoperirii pictorului rus, <b>Ivan Ivanovich Shishkin</b>. Pictura lui Shishkin <b>„Утро В Сосновом Лесу”</b> sau <b>„Dimineața în Pădurea de Pini”</b>, dacă traducem în română. Pictura preferată și susrsa infinită de inspirație. Nelimitatul talent a pictorului se transmite, perfect, prin peisajele sale.</p><br>
+<img src="lolml.png" width="150" height="400">&nbsp;&nbsp;&nbsp;&nbsp;<iframe width="700"  height="400" src="https://www.youtube.com/embed/cvftSp0Dbnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><img src="lolml.png" width="150" height="400"><br>
+<img src="lolml.png" width="150" height="400">&nbsp;&nbsp;&nbsp;&nbsp;<img width="700"  height="400" src="dojd.jpg"><img src="lolml.png" width="150" height="400"><br></div><br>
+<br>
+<div class="hobby"><img src="candles1.jpg" width="300" height="310" id="hp"><p style="font-family:garamond; color:#9d7b45; font-size:150%"><b><u>C A N D L E S</u></b></p>
+<p style="font-family:garamond; color:#746c56; font-size:150%">Colecționez lumânări de ceva timp. La momentul actual, am în jur de treizeci de lumânări aromate. Pasiunea pentru lumânările aromate mi-a provocat-o un mic cadou, din partea unei apropiate prietene. Focul fitilului și mirosul plăcut, calmează și crează o atmosferă plăcută în încăpere. Lumânările care nu mai au proprietatea de a arde, nu sunt aruncate. Atunci când se grămădesc destule lumânări care nu mai ard, le topesc și reutilizez ceara lor. Din ceara reutilizată confecționez lumânări noi, care mai apoi își continuă viața în colecția mea. De asemenea, folosesc lumânările pentru meditare. E o terapie perfectă, meditarea plus aroma preferată. Urmărirea focului de lumânare e modul perfect de a aprofunda meditarea. Lumânările au și semnificații, în dependență de culorile și aromele pe care le port. De asemenea, timpul și ziua în care se aprinde o lumânare e foarte important. Acestea ar fi unele din motivele pentru care colecționez lumânări.</p><br>
+<img src="lolml.png" width="150" height="400">&nbsp;&nbsp;&nbsp;&nbsp;<img width="700"  height="400" src="candles.jpg"><img src="lolml.png" width="150" height="400"><br>
+<img src="lolml.png" width="150" height="400">&nbsp;&nbsp;&nbsp;&nbsp;<iframe width="700" height="400" src="https://www.youtube.com/embed/3P7N58xUmy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><img src="lolml.png" width="150" height="400"></div>
+
+</body>
+</html>

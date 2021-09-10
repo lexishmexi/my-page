@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('animals.jpg');
+}
+</style>
+<style>
+.contact {
+  margin: auto;
+  width: 50%;
+  border: 5px solid white;
+  padding: 10px;
+background-color: rgba(132, 171, 168, 0.6);
+}
+</style>
+<style>
+#hp  {
+float: left;    
+ margin: 0 15px 0 0;
+}
+</style>
+</head>
+<body>
+<h style="margin-left:1.2em; font-family:goudy stout; font-size:270%; color:#84aba8;"><b>＊*•̩̩͙✩•̩̩͙*˚Contact Information˚*•̩̩͙✩•̩̩͙*˚＊</b></h><br>
+<br>
+<br>
+<div class="contact"><p style="font-family:garamond; color:#678f8c; font-size:250%; text-align:center;">♡</p><br>
+<img src="instag.png" width="35" height="35" style="margin-left:16em; vertical-align:middle" id="hp"><p><a href="https://www.instagram.com/alexandrina.astifeni/" target="_blank" style="color:#678f8c; font-family: courier new;"><b>@alexandrina.astifeni</b></p>
+<img src="twit.png" width="43" height="43" style="margin-left:16em; vertical-align:middle" id="hp"><p><a href="https://twitter.com/Alexa87237262" target="_blank" style="color:#678f8c; font-family: courier new;"><b>@alexa87237262</b></p></div>
+
+
+</body>
+</html>

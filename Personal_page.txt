@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<style>
+body {
+  background-image: url('copi1.jpg');
+}
+</style>
+<style type="text/css">
+    p.detail { font-family:bookman old style; color:#49874b; text-align:center;background-color:#bef7c0; }
+    span.name { font-family:bookman old style; color:#63a866; text-align:center;background-color:#bef7c0; }
+    span.heart { font-family:bookman old style; color:#49874b; text-align:center;background-color:#bef7c0;}
+    </style>
+<style>
+.center {
+  margin: auto;
+  width: 40%;
+  border: 5px solid white;
+  padding: 10px;
+background-color: rgba(192,192,192,0.6);
+}
+</style>
+<body>
+<h1><p class="detail">♡ <span class="name">My Personal Page<span class="heart"> ♡</span> </p></h1>
+<p style="font-family:Sitka Small; color:#708a70;text-align:center;font-size:110%"><b>Aștifeni Alexandrina</b></p2><br>
+<audio controls>
+<source src="audio1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio><br>
+<img src="cop17.jpg" width="200" height="210">&nbsp;&nbsp;&nbsp;<img src="cop18.jpg" width="200" height="210">&nbsp;&nbsp;&nbsp;<img src="cop19.jpg" width="200" height="210"><br>
+
+<div class="center"><p style="font-family:bookman old style; color:#49874b; text-align:center; font-size:110%"><b>🌱Informație Personală🌱</b></p>
+<p style="margin-left:9em; font-family:bookman old style; color:#49874b;font-size:110%"><b>Nume, Prenume:</b><span style="font-family:courier new; color:#63a866"><i><b>  Aștifeni Alexandrina</b></i></span></p>
+<p style="margin-left:9em; font-family:bookman old style; color:#49874b;font-size:110%"><b>Vârstă:</b><span style="font-family:courier new; color:#63a866"><i><b> 16 ani</b></i></span></p>
+<p style="margin-left:9em; font-family:bookman old style; color:#49874b;font-size:110%"><b>B-day:</b><span style="font-family:courier new; color:#63a866"><i><b> 22 februarie 2005</b></i></span></p>
+<p style="margin-left:9em; font-family:bookman old style; color:#49874b;font-size:110%"><b>Ce zodie sunt?:</b><span style="font-family:courier new; color:#63a866"><i><b> Pești</b></i> ♓︎</span></p></div><br>
+<h style="margin-left:1.5em; font-family:goudy stout; font-size:470%; color:#a6925b;"><b>‧͙⁺˚*･༓☾H O B B Y☽༓･*˚⁺‧͙</b></h>
+<p>shcghsdguy</p>
+</body>
+</html>
